@@ -1,6 +1,0 @@
-# Object file
-*.o
-./var/.env.dev
-
-# Ada Library Information
-*.ali
